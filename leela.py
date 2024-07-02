@@ -3,7 +3,6 @@
 DESCRIPTION="This script pulls the related tickets for a CI like incidents, changes, ritms"
 BUG_REPORT_EMAIL="chetan.sriram@thomsonreuters.com"
 
-######################################################################
 # Author - Chetan Sriram
 ######################################################################
 #
