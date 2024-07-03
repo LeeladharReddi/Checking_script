@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#VENKAT#!/python38-env/bin/python
+=======
 #GOPIREDDY#!/python38-env/bin/python
+>>>>>>> 41d2ba9ef6efde9896512ec647d6817075090d52
 
 DESCRIPTION="This script pulls the related tickets for a CI like incidents, changes, ritms"
 BUG_REPORT_EMAIL="chetan.sriram@thomsonreuters.com"
